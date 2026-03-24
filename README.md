@@ -1,9 +1,8 @@
-## Hi there 👋
-
 <!--
 **Tofu-create-pixel/Tofu-create-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Tofu
+
+# About me
+
+Chinese is my mother language, my English is not very good now.
+
+I'm learing programming languages(like C++) and basics of Computer Science. \
+I hope that I can make contributions to some intersting projects in the future(＞_＜).
