@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# About me
-
-Chinese is my mother language, my English is not very good now.
-
+Chinese is my mother language, my English is not very good now.\
 I'm learing programming languages(like C++) and basics of Computer Science. \
+
 I hope that I can make contributions to some intersting projects in the future(＞_＜).
