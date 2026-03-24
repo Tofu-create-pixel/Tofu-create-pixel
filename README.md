@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Tofu
-
 # About me
 
 Chinese is my mother language, my English is not very good now.
